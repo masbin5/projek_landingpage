@@ -103,10 +103,13 @@ export default function Home() {
         {/* Footer */}
       <footer className="py-12 bg-white border-t border-slate-100">
         <div className="container mx-auto px-4 text-center">
-            <h2 className="text-2xl font-bold text-slate-900 mb-6">Let's work together</h2>
-            <p className="text-slate-500 mb-8 max-w-md mx-auto">
-                Have a project in mind? Let's discuss how we can bring your vision to life.
-            </p>
+            <h2 className="text-2xl font-bold text-slate-900 mb-6">
+  Let&apos;s work together
+</h2>
+<p className="text-slate-500 mb-8 max-w-md mx-auto">
+  Have a project in mind? Let&apos;s discuss how we can bring your vision to life.
+</p>
+
             <a href="mailto:hello@example.com" className="inline-block bg-slate-900 text-white px-8 py-3 rounded-full font-medium hover:bg-slate-800 transition-colors">
                 Get in Touch
             </a>
